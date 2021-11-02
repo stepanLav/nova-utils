@@ -214,7 +214,7 @@
         "externalApi": {
             "crowdloans": {
                 "type": "github",
-                "url": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/crowdloan/rococo.json"
+                "url": "https://raw.githubusercontent.com/stepanLav/nova-utils/master/crowdloan/rococo.json"
             }
         },
         "options": [
