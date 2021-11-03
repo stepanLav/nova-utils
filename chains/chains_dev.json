@@ -42,7 +42,7 @@
         "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/chains/white/Polkadot.svg",
         "addressPrefix": 0,
         "types": {
-            "url": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/chains/types/polkadot.json",
+            "url": "https://raw.githubusercontent.com/sora-xor/sora2-substrate-js-library/master/packages/types/src/metadata/prod/types_scalecodec_mobile.json",
             "overridesCommon": true
         },
         "externalApi": {
@@ -664,5 +664,30 @@
         },
         "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/chains/white/Calamari.svg",
         "addressPrefix": 78
+    },
+    {
+        "chainId": "7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
+        "name": "Sora",
+        "assets": [
+            {
+                "assetId": 0,
+                "symbol": "XOR",
+                "precision": 18
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://mof3.sora.org",
+                "name": "Mof sora"
+            }
+        ],
+        "explorers": [
+        ],
+        "types": {
+            "url": "https://raw.githubusercontent.com/sora-xor/sora2-substrate-js-library/master/packages/types/src/metadata/prod/types_scalecodec_mobile.json",
+            "overridesCommon": true
+        },
+        "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/chains/white/SORA.svg",
+        "addressPrefix": 69
     }
 ]
