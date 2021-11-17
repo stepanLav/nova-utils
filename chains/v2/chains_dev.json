@@ -17,7 +17,7 @@
                 "name": "Parity node"
             },
             {
-                "url": "wss://polkadot.api.onfinality.io/public-wst",
+                "url": "wss://polkadot.api.onfinalityr.io/public-wst",
                 "name": "OnFinality node"
             },
             {
