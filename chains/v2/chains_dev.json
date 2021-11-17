@@ -13,12 +13,16 @@
         ],
         "nodes": [
             {
-                "url": "wss://rpc.polkadot.io",
+                "url": "wss://rpc.polkadot.ioui",
                 "name": "Parity node"
             },
             {
                 "url": "wss://polkadot.api.onfinalityr.io/public-wst",
                 "name": "OnFinality node"
+            },
+            {
+                "url": "wss://polkadot.geometry.io/websockets",
+                "name": "testing"
             },
             {
                 "url": "wss://pub.elara.patract.io/polkadotki",
