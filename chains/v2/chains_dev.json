@@ -17,11 +17,11 @@
                 "name": "Parity node"
             },
             {
-                "url": "wss://polkadot.api.onfinality.io/public-ws",
+                "url": "wss://polkadot.api.onfinality.io/public-wst",
                 "name": "OnFinality node"
             },
             {
-                "url": "wss://pub.elara.patract.io/polkadot",
+                "url": "wss://pub.elara.patract.io/polkadotki",
                 "name": "Patract node"
             }
         ],
