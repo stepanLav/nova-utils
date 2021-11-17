@@ -13,11 +13,11 @@
         ],
         "nodes": [
             {
-                "url": "wss://rpc.polkadot.ioui",
+                "url": "wss://rpc.polkadot.io",
                 "name": "Parity node"
             },
             {
-                "url": "wss://polkadot.api.onfinalityr.io/public-wst",
+                "url": "wss://polkadot.api.onfinalityr.io/public-ws",
                 "name": "OnFinality node"
             },
             {
@@ -25,7 +25,7 @@
                 "name": "testing"
             },
             {
-                "url": "wss://pub.elara.patract.io/polkadotki",
+                "url": "wss://pub.elara.patract.io/polkadot",
                 "name": "Patract node"
             }
         ],
@@ -81,16 +81,8 @@
         ],
         "nodes": [
             {
-                "url": "wss://kusama-rpc.polkadot.io",
+                "url": "wss://kusama-rpc.polkadot.iort",
                 "name": "Parity node"
-            },
-            {
-                "url": "wss://kusama.api.onfinality.io/public-ws",
-                "name": "OnFinality node"
-            },
-            {
-                "url": "wss://pub.elara.patract.io/kusama",
-                "name": "Patract node"
             }
         ],
         "explorers": [
