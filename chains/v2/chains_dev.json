@@ -13,7 +13,7 @@
         ],
         "nodes": [
             {
-                "url": "wss://rpc.polkadot.ior",
+                "url": "wss://rpc.polkadot.io",
                 "name": "Parity node"
             },
             {
