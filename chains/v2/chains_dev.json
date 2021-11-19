@@ -17,11 +17,11 @@
                 "name": "Parity node"
             },
             {
-                "url": "wss://polkadot.api.onfinality.io/public-ws",
+                "url": "wss://polkadot.api.onfinalityr.io/public-ws",
                 "name": "OnFinality node"
             },
             {
-                "url": "wss://polkadot.geometry.io/websockets",
+                "url": "wss://polkadot.geometryr.io/websockets",
                 "name": "testing"
             },
             {
