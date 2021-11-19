@@ -81,7 +81,7 @@
         ],
         "nodes": [
             {
-                "url": "wss://kusama-rpc.polkadot.io",
+                "url": "wss://kusama-rpc.polkadot.ioзе",
                 "name": "Parity node"
             }
         ],
