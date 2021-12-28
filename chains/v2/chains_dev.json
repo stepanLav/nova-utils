@@ -1169,5 +1169,65 @@
         },
         "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/chains/white/Statemine-Statemint.svg",
         "addressPrefix": 0
+    },
+    {
+        "chainId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+        "name": "Test-Node",
+        "assets": [
+            {
+                "assetId": 0,
+                "symbol": "KSM",
+                "precision": 12,
+                "priceId": "kusama",
+                "staking": "relaychain"
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://192.168.31.81:5050",
+                "name": "Local node"
+            }
+        ],
+        "explorers": [
+            {
+                "name": "Subscan",
+                "extrinsic": "https://kusama.subscan.io/extrinsic/{hash}",
+                "account": "https://kusama.subscan.io/account/{address}",
+                "event": null
+            },
+            {
+                "name": "Polkascan",
+                "extrinsic": "https://polkascan.io/kusama/extrinsic/{hash}",
+                "account": "https://polkascan.io/kusama/account/{address}",
+                "event": "https://polkascan.io/kusama/event/{event}"
+            },
+            {
+                "name": "Sub.ID",
+                "account": "https://sub.id/#/{address}"
+            }
+        ],
+        "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/chains/white/Testnet.svg",
+        "addressPrefix": 2,
+        "types": {
+            "url": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/chains/v2/types/kusama.json",
+            "overridesCommon": true
+        },
+        "externalApi": {
+            "staking": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/nova-wallet/nova-kusama"
+            },
+            "history": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/nova-wallet/nova-kusama"
+            },
+            "crowdloans": {
+                "type": "github",
+                "url": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/crowdloan/kusama.json"
+            }
+        },
+        "options": [
+            "crowdloans"
+        ]
     }
 ]
