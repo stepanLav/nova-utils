@@ -27,7 +27,7 @@ Group of icons to saturate Nova Wallet
 
 Note: Icons should be used from trusted sources, however currently icons are not available on the participants' websites, so for convenience, there is /icons folder.
 
-# Our networks list
+# Our list of networks
 |        Network         |                       Assets                       |     Explorers     |                                      History                                       |                         Staking                         |
 | ---------------------- | -------------------------------------------------- | ----------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | Polkadot               | DOT                                                | Subscan,Polkascan | [subquery](https://nova-polkadot.gapi.subquery.network)                            | [subquery](https://nova-polkadot.gapi.subquery.network) |
