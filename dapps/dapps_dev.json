@@ -37,7 +37,7 @@
     {
       "name": "Kanaria",
       "url": "https://kanaria.rmrk.app/",
-      "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/dapps/color/Kanaria.svg",
+      "icon": "https://raw.githubusercontent.com/stepanLav/nova-utils/feature/tests_update_icons/icons/dapps/color/Acala.png",
       "categories": [
         "nft"
       ]
