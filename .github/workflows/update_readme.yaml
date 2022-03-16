@@ -27,6 +27,7 @@ jobs:
         run: python ./scripts/generate-readme.py
 
       - name: Commit files
+        if: steps.changed-files.outputs.only_changed == 'true'
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
