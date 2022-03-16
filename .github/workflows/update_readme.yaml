@@ -34,7 +34,7 @@ jobs:
           title: Update Changelog
           body: Update changelog to reflect release changes
           branch: update-changelog
-          base: master
+          base: ${{ steps.vars.outputs.branch-name }}
           # token: ${{ secrets.GITHUB_TOKEN }}
           # commit-message: Update network list
           # committer: GitHub <noreply@github.com>
