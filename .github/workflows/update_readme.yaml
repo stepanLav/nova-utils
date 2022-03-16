@@ -30,7 +30,7 @@ jobs:
         if: steps.changed-files.outputs.only_changed == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH_NAME: 'update' #optional defaults to master
+          BRANCH_NAME: 'refs/heads/update' #optional defaults to master
 
       - uses: repo-sync/pull-request@v2
         if: steps.changed-files.outputs.only_changed == 'true'
