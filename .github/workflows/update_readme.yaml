@@ -26,10 +26,17 @@ jobs:
         if: steps.changed-files.outputs.only_changed == 'true'
         run: python ./scripts/generate-readme.py
 
+      - uses: mikeal/publish-to-github-action@master
+        if: steps.changed-files.outputs.only_changed == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH_NAME: 'update-chains-list' #optional defaults to master
+
       - uses: repo-sync/pull-request@v2
         if: steps.changed-files.outputs.only_changed == 'true'
         name: pull-request
         with:
+          source_branch: "update-chains-list"
           destination_branch: "master"
           pr_title: "Pulling ${{ github.ref }} into master"
           pr_body: "👑 *An automated PR*"
