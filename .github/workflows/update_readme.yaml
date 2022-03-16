@@ -34,10 +34,11 @@ jobs:
           git add ./chains/README.md
           git commit -m "Update networks"
       - name: Push changes
+        if: steps.changed-files.outputs.only_changed == 'true'
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: update-networks
+          branch: refs/heads/update-networks
 
       - uses: repo-sync/pull-request@v2
         if: steps.changed-files.outputs.only_changed == 'true'
