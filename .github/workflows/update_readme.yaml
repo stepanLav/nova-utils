@@ -28,13 +28,14 @@ jobs:
 
       - name: Create Pull Request
         if: steps.changed-files.outputs.only_changed == 'true'
-        uses: peter-evans/create-pull-request@v3
+        uses: peter-evans/create-pull-request@v3.10.1
         with:
-          commit-message: update changelog
-          title: Update Changelog
-          body: Update changelog to reflect release changes
-          branch: update-changelog
-          base: ${{ steps.vars.outputs.branch-name }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: Auto Pull Request
+          title: Your desired title
+          body: Auto-created Pull Request
+          branch: ${{ github.ref }} # The branch where you commit
+          base: master # Don't forget to specify the right base branch here
           # token: ${{ secrets.GITHUB_TOKEN }}
           # commit-message: Update network list
           # committer: GitHub <noreply@github.com>
