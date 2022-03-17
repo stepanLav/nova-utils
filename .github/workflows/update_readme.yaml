@@ -29,7 +29,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     needs: check
-    if: ${NEED_BUILD} == 'true'
+    if: ${{ NEED_BUILD }} == 'true'
     steps:
 
       - name: Checkout current repository to Master branch
