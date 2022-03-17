@@ -22,7 +22,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     needs: check
-    if: always() && needs.check.steps.changed-files.outputs.only_changed == 'true'
+    if: steps.changed-files.outputs.only_changed == 'true'
     steps:
 
       - name: Checkout current repository to Master branch
