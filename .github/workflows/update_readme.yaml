@@ -46,7 +46,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: refs/heads/update-networks
+          branch: refs/heads/update-networks-${{github.run_number}}
 
       - uses: repo-sync/pull-request@v2
         name: pull-request
