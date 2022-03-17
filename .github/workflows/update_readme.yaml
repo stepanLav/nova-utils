@@ -51,7 +51,7 @@ jobs:
       - uses: repo-sync/pull-request@v2
         name: pull-request
         with:
-          source_branch: "update-networks"
+          source_branch: "update-networks-${{github.run_number}}"
           destination_branch: "master"
           pr_title: "Update network list"
           pr_body: |
