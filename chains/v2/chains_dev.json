@@ -2440,7 +2440,7 @@
         ],
         "nodes": [
             {
-                "url": "ws://10.0.2.2:9944",
+                "url": "ws://192.168.31.36:9944",
                 "name": "Calactic Council node"
             }
         ],
