@@ -2450,6 +2450,15 @@
         },
         "color": "linear-gradient(315.17deg, #081152 19.76%, #F569AD 100%)",
         "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/chains/white/HydraDX.svg",
-        "addressPrefix": 42
+        "addressPrefix": 42,
+        "externalApi": {
+            "crowdloans": {
+                "type": "github",
+                "url": "https://raw.githubusercontent.com/stepanLav/nova-utils/tree/testing/new_crowdloans/crowdloan/rococo-local.json"
+            }
+        },
+        "options": [
+            "crowdloans"
+        ]
     }
 ]
