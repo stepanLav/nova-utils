@@ -2445,7 +2445,7 @@
             }
         ],
         "types": {
-            "url": "https://raw.githubusercontent.com/stepanLav/nova-utils/tree/testing/new_crowdloans/chains/v2/types/rococo-local-testnet.json",
+            "url": "https://raw.githubusercontent.com/stepanLav/nova-utils/testing/new_crowdloans/chains/v2/types/rococo-local-testnet.json",
             "overridesCommon": true
         },
         "color": "linear-gradient(315.17deg, #081152 19.76%, #F569AD 100%)",
