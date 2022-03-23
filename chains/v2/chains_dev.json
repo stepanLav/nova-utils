@@ -152,18 +152,6 @@
             {
                 "url": "wss://westend",
                 "name": "Parity node"
-            },
-            {
-                "url": "wss://westend",
-                "name": "OnFinality node"
-            },
-            {
-                "url": "wss://westend",
-                "name": "Patract node"
-            },
-            {
-                "url": "wss://westend",
-                "name": "Pinknode node"
             }
         ],
         "explorers": [
