@@ -150,19 +150,19 @@
         ],
         "nodes": [
             {
-                "url": "wss://westend-rpc.polkadot.io/1",
+                "url": "wss://westend",
                 "name": "Parity node"
             },
             {
-                "url": "wss://westend.api.onfinality.io/public-ws/1",
+                "url": "wss://westend",
                 "name": "OnFinality node"
             },
             {
-                "url": "wss://pub.elara.patract.io/westend/1",
+                "url": "wss://westend",
                 "name": "Patract node"
             },
             {
-                "url": "wss://rpc.pinknode.io/westend/explorer/1",
+                "url": "wss://westend",
                 "name": "Pinknode node"
             }
         ],
