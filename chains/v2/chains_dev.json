@@ -353,7 +353,14 @@
                 "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/tokens/white/BILLCOIN.svg",
                 "typeExtras": {
                     "assetId": "223"
-                }
+                },
+                "buyProviders": {
+                    "ramp": {},
+                    "moonpay": {},
+                    "transak": {
+                       "network": "MAINNET"
+                   }
+               }
             },
             {
                 "assetId": 6,
