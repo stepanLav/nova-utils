@@ -86,10 +86,7 @@
                 "priceId": "kusama",
                 "staking": "relaychain",
                 "buyProviders": {
-                    "ramp": {},
-                    "transak": {
-                        "network": "MAINNET"
-                    }
+                    "ramp": {}
                 }
             }
         ],
