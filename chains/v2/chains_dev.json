@@ -84,14 +84,7 @@
                 "symbol": "KSM",
                 "precision": 12,
                 "priceId": "kusama",
-                "staking": "relaychain",
-                "buyProviders": {
-                    "ramp": {},
-                    "transak": {
-                        "network": "MAINNET"
-                    },
-                    "moonpay": {}
-                }
+                "staking": "relaychain"
             }
         ],
         "nodes": [
