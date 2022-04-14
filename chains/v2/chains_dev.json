@@ -2845,5 +2845,31 @@
         "color": "linear-gradient(315deg, #78930F 0%, #D1F068 100%)",
         "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/chains/white/Phala.svg",
         "addressPrefix": 30
+    },
+    {
+        "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
+        "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+        "name": "Equilibrium",
+        "assets": [
+            {
+                "assetId": 0,
+                "symbol": "TOKEN",
+                "precision": 9,
+                "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/chains/white/Equilibrium.svg"
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://node.pol.equilibrium.io/",
+                "name": "Equilibrium node"
+            }
+        ],
+        "types": {
+            "url": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/chains/v2/types/equilibrium.json",
+            "overridesCommon": true
+        },
+        "color": "linear-gradient(315deg, #78930F 0%, #D1F068 100%)",
+        "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/chains/white/Equilibrium.svg",
+        "addressPrefix": 67
     }
 ]
