@@ -379,7 +379,7 @@
                 "fee": {
                   "mode": {
                     "type": "proportional",
-                    "value": "582784544553879"
+                    "value": "233113817822"
                   },
                   "instructions": "xtokensDest"
                 }
