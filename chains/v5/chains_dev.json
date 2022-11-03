@@ -5407,7 +5407,7 @@
         "addressPrefix": 0,
         "options": [
             "testnet",
-            "governance-v1"
+            "governance-v2"
         ]
     }
 ]
