@@ -19,7 +19,7 @@ class TestCanGetQueryInfo():
             call_function='transfer',
             call_params={
                 'dest': test_keypair.ss58_address,
-                'value': 0,
+                'value': 10_000_000,
             }
         )
         query_info = substrate.get_payment_info(call=call, keypair=test_keypair)
