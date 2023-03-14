@@ -4058,7 +4058,7 @@
             }
         ],
         "types": {
-            "url": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/chains/v2/types/crab2.json",
+            "url": "https://raw.githubusercontent.com/stepanLav/nova-utils/fix/crab2_fee_calculation/chains/v2/types/crab2.json",
             "overridesCommon": true
         },
         "externalApi": {
