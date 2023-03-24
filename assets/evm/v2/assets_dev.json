@@ -425,5 +425,185 @@
                 "contractAddress": "0x6021D2C27B6FBd6e7608D1F39B41398CAee2F824"
             }
         ]
+    },
+    {
+        "symbol": "ZETA",
+        "precision": 18,
+        "name": "ZETA",
+        "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/tokens/white/Default.svg",
+        "instances": [
+            {
+                "chainId": "eip155:5",
+                "contractAddress": "0xCc7bb2D219A0FC08033E130629C2B854b7bA9195"
+            }
+        ]
+    },
+    {
+        "symbol": "USDC",
+        "precision": 18,
+        "name": "USDC",
+        "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/tokens/white/Default.svg",
+        "instances": [
+            {
+                "chainId": "eip155:5",
+                "contractAddress": "0x07865c6E87B9F70255377e024ace6630C1Eaa37F"
+            }
+        ]
+    },
+    {
+        "symbol": "WETH",
+        "precision": 18,
+        "name": "WETH",
+        "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/tokens/white/Default.svg",
+        "instances": [
+            {
+                "chainId": "eip155:5",
+                "contractAddress": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6"
+            }
+        ]
+    },
+    {
+        "symbol": "DAI",
+        "precision": 18,
+        "name": "DAI",
+        "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/tokens/white/Default.svg",
+        "instances": [
+            {
+                "chainId": "eip155:5",
+                "contractAddress": "0xb0E1358BF8ee3448f88f7020aE1EdB29c001F80c"
+            }
+        ]
+    },
+    {
+        "symbol": "AAVE",
+        "precision": 18,
+        "name": "AAVE",
+        "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/tokens/white/Default.svg",
+        "instances": [
+            {
+                "chainId": "eip155:5",
+                "contractAddress": "0xE205181Eb3D7415f15377F79aA7769F846cE56DD"
+            }
+        ]
+    },
+    {
+        "symbol": "BIT",
+        "precision": 18,
+        "name": "BIT",
+        "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/tokens/white/Default.svg",
+        "instances": [
+            {
+                "chainId": "eip155:5",
+                "contractAddress": "0x5a94Dc6cc85fdA49d8E9A8b85DDE8629025C42be"
+            }
+        ]
+    },
+    {
+        "symbol": "mCAW",
+        "precision": 18,
+        "name": "mCAW",
+        "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/tokens/white/Default.svg",
+        "instances": [
+            {
+                "chainId": "eip155:5",
+                "contractAddress": "0x0bc5f399265fA0Fb95F5473c8ec1737d1dBB015c"
+            }
+        ]
+    },
+    {
+        "symbol": "FILW",
+        "precision": 18,
+        "name": "FILW",
+        "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/tokens/white/Default.svg",
+        "instances": [
+            {
+                "chainId": "eip155:5",
+                "contractAddress": "0xf25E16b3Ffcaf7E134D06E765eaFfeC91c3CB4AA"
+            }
+        ]
+    },
+    {
+        "symbol": "LINK",
+        "precision": 18,
+        "name": "LINK",
+        "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/tokens/white/Default.svg",
+        "instances": [
+            {
+                "chainId": "eip155:5",
+                "contractAddress": "0x326C977E6efc84E512bB9C30f76E30c160eD06FB"
+            }
+        ]
+    },
+    {
+        "symbol": "CHZ",
+        "precision": 18,
+        "name": "CHZ",
+        "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/tokens/white/Default.svg",
+        "instances": [
+            {
+                "chainId": "eip155:5",
+                "contractAddress": "0x1a846Ef5C55cF68cE64B8BbD463aC6758a8857fb"
+            }
+        ]
+    },
+    {
+        "symbol": "SOON",
+        "precision": 18,
+        "name": "SOON",
+        "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/tokens/white/Default.svg",
+        "instances": [
+            {
+                "chainId": "eip155:5",
+                "contractAddress": "0x5236E5984aF31699e53917C6db8177BfD54D921f"
+            }
+        ]
+    },
+    {
+        "symbol": "UNI-V2",
+        "precision": 18,
+        "name": "UNI-V2",
+        "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/tokens/white/Default.svg",
+        "instances": [
+            {
+                "chainId": "eip155:5",
+                "contractAddress": "0x88124Ef4A9EC47e691F254F2E8e348fd1e341e9B"
+            }
+        ]
+    },
+    {
+        "symbol": "RNT-SVQ-5",
+        "precision": 18,
+        "name": "RNT-SVQ-5",
+        "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/tokens/white/Default.svg",
+        "instances": [
+            {
+                "chainId": "eip155:5",
+                "contractAddress": "0x85E89E108f929B78dF07B90f6f9558B591785332"
+            }
+        ]
+    },
+    {
+        "symbol": "SyUSD",
+        "precision": 18,
+        "name": "SyUSD",
+        "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/tokens/white/Default.svg",
+        "instances": [
+            {
+                "chainId": "eip155:5",
+                "contractAddress": "0x802794f497895010693B545cFccadca6b1e321EF"
+            }
+        ]
+    },
+    {
+        "symbol": "wBTC",
+        "precision": 18,
+        "name": "wBTC",
+        "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/tokens/white/Default.svg",
+        "instances": [
+            {
+                "chainId": "eip155:5",
+                "contractAddress": "0xCA063A2AB07491eE991dCecb456D1265f842b568"
+            }
+        ]
     }
 ]
