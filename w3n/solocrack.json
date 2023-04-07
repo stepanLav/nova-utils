@@ -96,7 +96,7 @@
         "account": "0x6b175474e89094c44da98b954ee"
       }
     ],
-    "kusama:b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe/slip44:434": [
+    "polkadot:b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe/slip44:434": [
         {
             "account": "JHXFqYWQFFr5RkHVzviRiKhY7tutyGcYQb6kUyoScSir862",
             "description": "valid KSM Kusama"
@@ -106,7 +106,7 @@
             "description": "invalid Kusama"
         }
     ],
-    "karura:baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b/slip44:434": [
+    "polkadot:baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b/slip44:434": [
         {
             "account": "u1UonnvhzWD1nB4wCCrh7vFR2kgE53jg3utSaqcDk1eY88E",
             "description": "valid KSM Karura"
@@ -116,20 +116,10 @@
             "description": "invalid Karura"
         }
     ],
-    "karura:baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b/slip44:686": [
+    "polkadot:baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b/slip44:686": [
         {
             "account": "u1UonnvhzWD1nB4wCCrh7vFR2kgE53jg3utSaqcDk1eY88E",
             "description": "valid KAR Karura"
-        },
-        {
-            "account": "14aNNh7Gk3JV5dTuthgDzJcYaCfv45pHyi73JHHeb8HkfaX7",
-            "description": "invalid Karura"
-        }
-    ],
-    "karura:b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe/slip44:434": [
-        {
-            "account": "JHXFqYWQFFr5RkHVzviRiKhY7tutyGcYQb6kUyoScSir862",
-            "description": "valid KSM Karura"
         },
         {
             "account": "14aNNh7Gk3JV5dTuthgDzJcYaCfv45pHyi73JHHeb8HkfaX7",
