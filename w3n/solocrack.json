@@ -1,0 +1,139 @@
+{
+    "polkadot:91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3/slip44:354": [
+      {
+        "account": "4qgEYx53rH4HWHQNSrmXo2b8QtRVDt6kccru1mPxciv2b3g9",
+        "description": "Wrong address 😝"
+      },
+      {
+        "account": "13mAjFVjFDpfa42k2dLdSnUyrSzK8vAySsoudnxX2EKVtfaq",
+        "description": "valid address"
+      },
+      {
+        "account": "132m2SXx9XXMu2FJ92ykS7BSGpMYzCqisQnb8xXfC91vNAKC"
+      },
+      {
+        "account": "132m2SXx9XXMu2FJ92ykS7BSGpMYzCqisQnb8xXfC91vNAKC ",
+        "description": "space in the end"
+      },
+      {
+        "account": "0x467E99717a0f54226454121e6e20Dd1549b30d0e"
+      },
+      {
+        "account": "0x7981bf847603d89f11254b4eb4c251ED2593863b",
+        "description": "Personal account"
+      },
+      {
+        "account": "0x3d89f11254b4eb4c251ED2593863b",
+        "description": "Invalid Personal account many text and other text many text and other text many text and other text many text and other text many text and other text many text and other text"
+      },
+      {
+        "account": "0x11254b4eb4c251ED2593863b"
+      },
+      {
+        "account": "16iCjrThdfWPmJwMgwAffunrF9cKnc1aAXUqX7hCWuFkHSuB"
+      },
+      {
+        "account": "16iCjrThdfWPmJwMgwAffunrF9cKnc1aAXUqX7hCWuFkHSuB"
+      },
+      {
+        "account": "16UsfV5LU9AbRB7DQdCuBgv5VSHnJeu94Nsr13mZe9M2Hi3Y"
+      },
+      {
+        "account": "14aNNh7Gk3JV5dTuthgDzJcYaCfv45pHyi73JHHeb8HkfaX7"
+      }
+    ],
+    "polkadot:fc41b9bd8ef8fe53d58c7ea67c794c7ec9a73daf05e6d54b14ff6342c99ba64c/slip44:787": [
+      {
+        "account": "26aoKmsjUaFfKtyzkFxuSvT6i13GLSJn3w29fx8D9TCd6hga",
+        "description": "valid ACA Acala"
+      },
+      {
+        "account": "14aNNh7Gk3JV5dTuthgDzJcYaCfv45pHyi73JHHeb8HkfaX7",
+        "description": "invalid Acala"
+      }
+    ],
+    "polkadot:fc41b9bd8ef8fe53d58c7ea67c794c7ec9a73daf05e6d54b14ff6342c99ba64c/slip44:354": [
+      {
+        "account": "26aoKmsjUaFfKtyzkFxuSvT6i13GLSJn3w29fx8D9TCd6hga",
+        "description": "valid DOT Acala"
+      },
+      {
+        "account": "14aNNh7Gk3JV5dTuthgDzJcYaCfv45pHyi73JHHeb8HkfaX7",
+        "description": "invalid Acala"
+      }
+    ],
+    "polkadot:fe58ea77779b7abda7da4ec526d14db9b1e9cd40a217c34892af80a9b332b76d/slip44:1284": [
+      {
+        "account": "0x467E99717a0f54226454121e6e20Dd1549b30d0e",
+        "description": "valid GLMR Moonbeam"
+      },
+      {
+        "account": "0x467E99717a0f54226454121e6e20Dd1549b",
+        "description": "invalid Moonbeam"
+      }
+    ],
+    "polkadot:fe58ea77779b7abda7da4ec526d14db9b1e9cd40a217c34892af80a9b332b76d/slip44:354": [
+      {
+        "account": "0x467E99717a0f54226454121e6e20Dd1549b30d0e",
+        "description": "valid DOT Moonbeam"
+      },
+      {
+        "account": "0x467E99717a0f54226454121e6e20Dd1549b",
+        "description": "invalid Moonbeam"
+      }
+    ],
+    "eip155:1/erc20:0x2170ed0880ac9a755fd29b2688956bd959f933f8": [
+      {
+        "account": "0x5173Dab1947CFD36fA7dCdBAE55C7E71A982a181"
+      }
+    ],
+    "eip:1/slip44:60": [
+      {
+        "account": "0x5173Dab1947CFD36fA7dCdBAE55C7E71A982a181",
+        "description": "NFT sales"
+      },
+      {
+        "account": "0x6b175474e89094c44da98b954ee"
+      }
+    ],
+    "kusama:b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe/slip44:434": [
+        {
+            "account": "JHXFqYWQFFr5RkHVzviRiKhY7tutyGcYQb6kUyoScSir862",
+            "description": "valid KSM Kusama"
+        },
+        {
+            "account": "14aNNh7Gk3JV5dTuthgDzJcYaCfv45pHyi73JHHeb8HkfaX7",
+            "description": "invalid Kusama"
+        }
+    ],
+    "karura:baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b/slip44:434": [
+        {
+            "account": "u1UonnvhzWD1nB4wCCrh7vFR2kgE53jg3utSaqcDk1eY88E",
+            "description": "valid KSM Karura"
+        },
+        {
+            "account": "14aNNh7Gk3JV5dTuthgDzJcYaCfv45pHyi73JHHeb8HkfaX7",
+            "description": "invalid Karura"
+        }
+    ],
+    "karura:baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b/slip44:686": [
+        {
+            "account": "u1UonnvhzWD1nB4wCCrh7vFR2kgE53jg3utSaqcDk1eY88E",
+            "description": "valid KAR Karura"
+        },
+        {
+            "account": "14aNNh7Gk3JV5dTuthgDzJcYaCfv45pHyi73JHHeb8HkfaX7",
+            "description": "invalid Karura"
+        }
+    ],
+    "karura:b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe/slip44:434": [
+        {
+            "account": "JHXFqYWQFFr5RkHVzviRiKhY7tutyGcYQb6kUyoScSir862",
+            "description": "valid KSM Karura"
+        },
+        {
+            "account": "14aNNh7Gk3JV5dTuthgDzJcYaCfv45pHyi73JHHeb8HkfaX7",
+            "description": "invalid Karura"
+        }
+    ]
+  }
