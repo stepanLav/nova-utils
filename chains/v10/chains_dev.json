@@ -3204,7 +3204,7 @@
                 "name": "Infura node 4"
             },
             {
-                "url": "ws://10.0.2.2:8081",
+                "url": "wss://10.0.2.2:8080",
                 "name": "Infura node 4"
             }
         ],
