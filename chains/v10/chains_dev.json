@@ -3200,7 +3200,7 @@
         "nodeSelectionStrategy": "uniform",
         "nodes": [
             {
-                "url": "wss://mainnet.infura.io/v3/32a2be59297444c9bcb2b61bb700c6fe",
+                "url": "ws://192.168.31.36:9090",
                 "name": "Infura node 4"
             },
             {
