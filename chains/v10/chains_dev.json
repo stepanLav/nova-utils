@@ -3200,7 +3200,7 @@
         "nodeSelectionStrategy": "uniform",
         "nodes": [
             {
-                "url": "wss://192.168.31.36:9090",
+                "url": "ws://192.168.3.110:9091",
                 "name": "Infura node 4"
             },
             {
