@@ -2632,10 +2632,6 @@
         "nodeSelectionStrategy": "uniform",
         "nodes": [
             {
-                "url": "https://eth.llamarpc.com",
-                "name": "llamanodes rpc node"
-            },
-            {
                 "url": "wss://mainnet.infura.io/ws/v3/5717b02168b5434ba23801e1ea755afb",
                 "name": "Infura node 4"
             }
