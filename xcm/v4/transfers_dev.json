@@ -20,7 +20,7 @@
       "reserveFee": {
         "mode": {
           "type": "proportional",
-          "value": "30051417676"
+          "value": "300514179462"
         },
         "instructions": "xtokensReserve"
       }
@@ -414,7 +414,7 @@
                 "fee": {
                   "mode": {
                     "type": "proportional",
-                    "value": "30051417676"
+                    "value": "300514179462"
                   },
                   "instructions": "xtokensDest"
                 }
@@ -1184,7 +1184,7 @@
                 "fee": {
                   "mode": {
                     "type": "proportional",
-                    "value": "30051417676"
+                    "value": "300514179462"
                   },
                   "instructions": "xtokensDest"
                 }
@@ -2346,7 +2346,7 @@
                 "fee": {
                   "mode": {
                     "type": "proportional",
-                    "value": "30051417676"
+                    "value": "300514179462"
                   },
                   "instructions": "xcmPalletTeleportDest"
                 }
@@ -2592,7 +2592,7 @@
                 "fee": {
                   "mode": {
                     "type": "proportional",
-                    "value": "30051417676"
+                    "value": "300514179462"
                   },
                   "instructions": "xtokensDest"
                 }
@@ -2857,7 +2857,7 @@
                 "fee": {
                   "mode": {
                     "type": "proportional",
-                    "value": "30051417676"
+                    "value": "300514179462"
                   },
                   "instructions": "xtokensDest"
                 }
@@ -3234,7 +3234,7 @@
                 "fee": {
                   "mode": {
                     "type": "proportional",
-                    "value": "30051417676"
+                    "value": "300514179462"
                   },
                   "instructions": "xtokensDest"
                 }
@@ -4312,7 +4312,7 @@
                 "fee": {
                   "mode": {
                     "type": "proportional",
-                    "value": "30051417676"
+                    "value": "300514179462"
                   },
                   "instructions": "xtokensDest"
                 }
@@ -4461,7 +4461,7 @@
                 "fee": {
                   "mode": {
                     "type": "proportional",
-                    "value": "30051417676"
+                    "value": "300514179462"
                   },
                   "instructions": "xtokensDest"
                 }
@@ -5205,7 +5205,7 @@
                 "fee": {
                   "mode": {
                     "type": "proportional",
-                    "value": "30051417676"
+                    "value": "300514179462"
                   },
                   "instructions": "xcmPalletDest"
                 }
