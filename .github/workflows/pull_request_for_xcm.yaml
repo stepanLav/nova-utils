@@ -36,6 +36,9 @@ jobs:
           files: |
             ${{ env.DEV_XCM_JSON_PATH }}
 
+      - name: Set GITHUB_HEAD_REF environment variable
+        run: echo "GITHUB_HEAD_REF=${{ github.head_ref }}" >> $GITHUB_ENV
+
       - name: Install dependencies
         run: make init
 

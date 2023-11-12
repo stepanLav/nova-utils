@@ -177,6 +177,9 @@ def main(argv):
 
     nova_utils_url = "https://raw.githubusercontent.com/novasamatech/nova-utils/master/"
 
+    if os.getenv('GITHUB_HEAD_REF'):
+        nova_utils_url = f"https://raw.githubusercontent.com/novasamatech/nova-utils/{os.getenv('GITHUB_HEAD_REF')}/{transfers_file}"
+
     if 'DEV' in argv:
         transfers_file = os.getenv(
             "DEV_XCM_JSON_PATH", "xcm/v4/transfers_dev.json")
